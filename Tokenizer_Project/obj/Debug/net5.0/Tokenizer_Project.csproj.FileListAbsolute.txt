@@ -1,0 +1,15 @@
+C:\Users\Ranee\source\repos\Tokenizer_Project\Tokenizer_Project\bin\Debug\net5.0\Tokenizer_Project.exe
+C:\Users\Ranee\source\repos\Tokenizer_Project\Tokenizer_Project\bin\Debug\net5.0\Tokenizer_Project.deps.json
+C:\Users\Ranee\source\repos\Tokenizer_Project\Tokenizer_Project\bin\Debug\net5.0\Tokenizer_Project.runtimeconfig.json
+C:\Users\Ranee\source\repos\Tokenizer_Project\Tokenizer_Project\bin\Debug\net5.0\Tokenizer_Project.runtimeconfig.dev.json
+C:\Users\Ranee\source\repos\Tokenizer_Project\Tokenizer_Project\bin\Debug\net5.0\Tokenizer_Project.dll
+C:\Users\Ranee\source\repos\Tokenizer_Project\Tokenizer_Project\bin\Debug\net5.0\ref\Tokenizer_Project.dll
+C:\Users\Ranee\source\repos\Tokenizer_Project\Tokenizer_Project\bin\Debug\net5.0\Tokenizer_Project.pdb
+C:\Users\Ranee\source\repos\Tokenizer_Project\Tokenizer_Project\obj\Debug\net5.0\Tokenizer_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ranee\source\repos\Tokenizer_Project\Tokenizer_Project\obj\Debug\net5.0\Tokenizer_Project.AssemblyInfoInputs.cache
+C:\Users\Ranee\source\repos\Tokenizer_Project\Tokenizer_Project\obj\Debug\net5.0\Tokenizer_Project.AssemblyInfo.cs
+C:\Users\Ranee\source\repos\Tokenizer_Project\Tokenizer_Project\obj\Debug\net5.0\Tokenizer_Project.csproj.CoreCompileInputs.cache
+C:\Users\Ranee\source\repos\Tokenizer_Project\Tokenizer_Project\obj\Debug\net5.0\Tokenizer_Project.dll
+C:\Users\Ranee\source\repos\Tokenizer_Project\Tokenizer_Project\obj\Debug\net5.0\ref\Tokenizer_Project.dll
+C:\Users\Ranee\source\repos\Tokenizer_Project\Tokenizer_Project\obj\Debug\net5.0\Tokenizer_Project.pdb
+C:\Users\Ranee\source\repos\Tokenizer_Project\Tokenizer_Project\obj\Debug\net5.0\Tokenizer_Project.genruntimeconfig.cache

@@ -16,6 +16,7 @@
 
 ### Reema Alyosef
 - PhoneTokenizer
+- BracketsTokenizer
 
 ### Fatimah Alghtani
 - SymboleTokenizer

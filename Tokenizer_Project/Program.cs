@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace Tokenizer_Project
 {
@@ -334,6 +334,7 @@ namespace Tokenizer_Project
         }
     }
 
+
     //Fatimah
 
     public class ATTokenizer : Tokenizable
@@ -356,7 +357,49 @@ namespace Tokenizer_Project
             return token;
         }
     }
+    //fatma
+    public class commintwitline : Tokenizable
+    {
+        public override bool tokenizable(Tokenizer t)
+        {
+            {
+                if (t.hasMore() && t.peek() == '/')
+                {
+                    t.next();
+                    if (t.hasMore() && (t.peek() == '/' || t.peek() == '*'))
+                    {
+                        return true;
+                    }
+                    else
+                    {
+                        return false;
+                    }
+                }
+                return t.hasMore() && t.peek() == '/';
+            }
+        }
+        public override Token tokenize(Tokenizer t)
+        {
 
+            Token token = new Token();
+            token.type = "commentwith*/";
+            token.value = "/";
+            token.position = t.currentPostion;
+            token.lineNumber = t.lineNumber;
+            while (t.hasMore())
+            {
+                if (t.peek() == '\n')
+                    break;
+                if (t.peek() == '/' && token.value.EndsWith('*'))
+                {
+                    token.value += t.next();
+                    break;
+                }
+                token.value += t.next();
+            }
+            return token;
+        }
+    }
     //Fatimah 
 
     public class SymboleTokenizer : Tokenizable

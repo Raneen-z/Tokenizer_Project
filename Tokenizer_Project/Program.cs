@@ -357,7 +357,7 @@ namespace Tokenizer_Project
             return token;
         }
     }
-    //Fatimah
+    //fatma
     public class commintwitline : Tokenizable
     {
         public override bool tokenizable(Tokenizer t)
@@ -382,7 +382,7 @@ namespace Tokenizer_Project
         {
 
             Token token = new Token();
-            token.type = "commentwith*/";
+            token.type = "comment";
             token.value = "/";
             token.position = t.currentPostion;
             token.lineNumber = t.lineNumber;
